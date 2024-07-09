@@ -1,7 +1,7 @@
 package jp.kait.actiongame;
 
-import android.content.Intent;
 import android.graphics.Point;
+import android.hardware.SensorManager;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
